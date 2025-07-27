@@ -9,7 +9,7 @@
   <img src="https://camo.githubusercontent.com/2b1a857575f3a9a46dbc75175912ea365db3a140f95dad986227c43175a227a3/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f644d4c6d5166434f376c43413267583374772f67697068792e6769663f6369643d6563663035653437616b366d7766753831323236397a7a7238796476353239313039717a70623872737a776e6a613965267269643d67697068792e6769662663743d73" width="100px" alt="Waving Hand GIF">
   <h1>Hi 👋🏻, I'm Aditya Gupta</h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&random=true&width=400&lines=Computer+Science Student;Full+Stack+Developer;Data+Structures+%26+Algorithms;Object-Oriented+Programming;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&random=true&width=400&lines=Computer+Science+Student;Full+Stack+Developer;Data+Structures+%26+Algorithms;Object-Oriented+Programming;Problem+Solver" alt="Typing SVG" />
   </a>
 </div>
 
