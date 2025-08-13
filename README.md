@@ -35,6 +35,7 @@
 <a href="https://codeforces.com/profile/the_adee"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/></a>
 <a href="https://www.codechef.com/users/the_adee"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"/></a>
 <a href="https://www.hackerrank.com/profile/the_adee"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/></a>
+<a href="https://www.geeksforgeeks.org/user/theadee/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/> </a>
 
 <br><br>
 
