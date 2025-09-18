@@ -11,10 +11,11 @@
 
 ## 🚀 About Me
 
-- 🎓 Master's student in Computer Science, specializing in **full-stack development** and **system architecture**
+- 🎓 Master's student in Computer Science, specializing in **full-stack development** and **Data Structures & Algorithms**
 - 💻 Creator of **[CodeHat](https://github.com/the-adee/CodeHat)** - a scalable full-stack web application built with React
 - 🌱 Currently exploring **Docker** and **microservices architecture**
 - 🔧 Strong foundation in **Data Structures & Algorithms** and **Object-Oriented Programming**
+- 📧 Reach Out to Me: [aditya.gupta.leads@gmail.com](mailto:aditya.gupta.leads@gmail.com)
 
 <br>
 
@@ -116,7 +117,7 @@
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-gupta-irl)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hapticfeedbak@proton.me)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.gupta.leads@gmail.com)
   [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19718063/haptic?tab=profile)
 
 </div>
