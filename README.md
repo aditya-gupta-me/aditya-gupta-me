@@ -12,7 +12,7 @@
 ## 🚀 About Me
 
 - 🎓 Master's student in Computer Science, specializing in **full-stack development** and **Data Structures & Algorithms**
-- 💻 Creator of **[CodeHat](https://github.com/the-adee/CodeHat)** - a scalable full-stack web application built with React
+- 💻 Creator of **[CodeHat](https://github.com/aditya-gupta-me/CodeHat)** - a scalable full-stack web application built with React
 - 🌱 Currently exploring **Docker** and **microservices architecture**
 - 🔧 Strong foundation in **Data Structures & Algorithms** and **Object-Oriented Programming**
 - 📧 Reach Out to Me: [aditya.gupta.leads@gmail.com](mailto:aditya.gupta.leads@gmail.com)
@@ -105,9 +105,9 @@
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=the-adee&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=1F222E&title_color=36BCF7&icon_color=36BCF7" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aditya-gupta-me&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=1F222E&title_color=36BCF7&icon_color=36BCF7" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-adee&theme=black-ice&hide_border=true&stroke=0000&background=1F222E&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-gupta-me&theme=black-ice&hide_border=true&stroke=0000&background=1F222E&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak" />
 </div>
 
 <br>
