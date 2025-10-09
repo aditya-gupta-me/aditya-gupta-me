@@ -125,5 +125,5 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=the-adee&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=aditya-gupta-me&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
