@@ -12,10 +12,12 @@
 ## 🚀 About Me
 
 - 🎓 Master's student in Computer Science, specializing in **full-stack development** and **Data Structures & Algorithms**
-- 💻 Creator of **[CodeHat](https://github.com/aditya-gupta-me/CodeHat)** - a scalable full-stack web application built with React
+- 💻 Creator of **[CodeHat](https://github.com/aditya-gupta-me/CodeHat)** - a multi-language online compiler (Python, Java, etc.) with real-time code execution and a built-in
+  problem-solving module.
 - 🌱 Currently exploring **Docker** and **microservices architecture**
 - 🔧 Strong foundation in **Data Structures & Algorithms** and **Object-Oriented Programming**
 - 📧 Reach Out to Me: [aditya.gupta.leads@gmail.com](mailto:aditya.gupta.leads@gmail.com)
+- 🌐 More about me on: https://www.adityaguptadev.me/
 
 <br>
 
