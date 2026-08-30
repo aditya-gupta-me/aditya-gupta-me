@@ -3,9 +3,12 @@
 Full-stack engineer building web applications with Next.js, Node.js, React, 
 and Python. Interested in developer tooling and applied AI.
 
+I write about software engineering, AI, and other things I learn along the way.
+
 Open to full-stack engineering roles.
 
 [Portfolio](https://www.adityaguptadev.me) · 
+[Blog](https://aditya-gupta-dev.medium.com) · 
 [LinkedIn](https://linkedin.com/in/aditya-gupta-irl) · 
 [Email](mailto:aditya.gupta.leads@gmail.com)
 
